@@ -1,0 +1,1 @@
+This repository demonstrates a common error in TypeScript related to handling nullish values in string interpolation.  The `bug.ts` file shows the problematic code, while `bugSolution.ts` provides a corrected version using optional chaining and the nullish coalescing operator.
